@@ -1,0 +1,5 @@
+Advance Git Command
+
+git log
+git merge (->username)
+git checkout -b (to make branch)
